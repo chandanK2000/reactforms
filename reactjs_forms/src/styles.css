@@ -1,0 +1,10 @@
+*{
+    color:red;
+}
+
+.active{
+    color: gray;
+    /* border-radius: 5px; */
+    /* background-color: orange; */
+    font-weight: bold;
+}
